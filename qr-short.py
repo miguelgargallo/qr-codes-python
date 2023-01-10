@@ -1,6 +1,6 @@
 import qrcode
 
-link = "https://www.example.com"
+link = "https://miguelgargallo.com"
 
 img = qrcode.make(link)
 

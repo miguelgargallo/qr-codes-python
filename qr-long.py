@@ -1,7 +1,7 @@
 import qrcode
 
 # Set the data and segmentation options
-data = "https://www.example.com"
+data = "https://miguelgargallo.com"
 version = 40
 num_segments = 4
 
