@@ -1,5 +1,7 @@
 # QR Code Generation
 
+![qr-codes-python](https://user-images.githubusercontent.com/5947268/211444197-0dd85aa6-8963-484e-87c8-cf7b111ab2d8.png)
+
 - [QR Code Generation](#qr-code-generation)
   - [Usage](#usage)
     - [qr-short.py](#qr-shortpy)
